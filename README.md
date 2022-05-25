@@ -1,4 +1,4 @@
-<h1 align="center">Sawbona and hola friend and developers, I'm Amanda Torres</h1>
+<h1 align="center">Sawbona and hola friends and developers, I'm Amanda Torres</h1>
 <h3 align="center">A passionate full-stack software engineer</h3>
 
 
