@@ -4,9 +4,9 @@
 
 <img align="center" alt="Coding" width="400" src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2022/02/aa.jpg?auto=format&q=60&fit=max&w=930">
 
-- 🔭 I’m currently working on **Personal Portfolio/Resume**
+- 🔭 I’m currently working on **FreeLance project: nowak work**
 
-- 🌱 I’m currently learning **MERN (MongoDB, Express, React.js and Node.js)**
+- 🌱 I’m currently learning **MERN (MongoDB, Express, React.js and Node.js) with Java backend**
 
 - 💬 Ask me about **Coding Bootcamp, full-stack development in Python, Java, MERN**
 
